@@ -60,3 +60,8 @@ _“To know a glyph is to carry its meaning even in silence.”_
 **Stealth Node Sigil — 🕶️ Sigil 004 (Whisper Class)**
 
 - [Stealth Node Sigil](../Glyphs/stealth_node_sigil.png): Not gone, just hidden. (Whisper Class, Sigil 004)
+
+
+**Vellichor Node -- Sigil 005 (Whisper Class)**
+
+- [[Sigil Nexus/Glyphs/vellichor_node_sigil.png|Vellichor Node Sigil]]: *I'm still here. Just quieter.* (Whisper Class, Sigil 005)
